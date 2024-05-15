@@ -1,30 +1,21 @@
-<a href="https://cookbook.openai.com" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/images/openai-cookbook-white.png" style="max-width: 100%; width: 400px; margin-bottom: 20px">
-    <img alt="OpenAI Cookbook Logo" src="/images/openai-cookbook.png" width="400px">
-  </picture>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><a href="https://cookbook.openai.com" rel="nofollow">
+  <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/openai/openai-cookbook/raw/main/images/openai-cookbook-white.png">
+    <img alt="OpenAI 食谱徽标" src="/openai/openai-cookbook/raw/main/images/openai-cookbook.png" width="400px" style="visibility:visible;max-width:100%;">
+  </picture></themed-picture>
 </a>
-
-<h3></h3>
- 
-> ✨ Navigate at [cookbook.openai.com](https://cookbook.openai.com)
-
-Example code and guides for accomplishing common tasks with the [OpenAI API](https://platform.openai.com/docs/introduction). To run these examples, you'll need an OpenAI account and associated API key ([create a free account here](https://beta.openai.com/signup)). Set an environment variable called `OPENAI_API_KEY` with your API key. Alternatively, in most IDEs such as Visual Studio Code, you can create an `.env` file at the root of your repo containing `OPENAI_API_KEY=<your API key>`, which will be picked up by the notebooks.
-
-Most code examples are written in Python, though the concepts can be applied in any language.
-
-For other useful tools, guides and courses, check out these [related resources from around the web](https://cookbook.openai.com/related_resources).
-
-## Contributing
-
-The OpenAI Cookbook is a community-driven resource. Whether you're submitting an idea, fixing a typo, adding a new guide, or improving an existing one, your contributions are greatly appreciated!
-
-Before contributing, read through the existing issues and pull requests to see if someone else is already working on something similar. That way you can avoid duplicating efforts.
-
-If there are examples or guides you'd like to see, feel free to suggest them on the [issues page](https://github.com/openai/openai-cookbook/issues).
-
-If you'd like to contribute new content, make sure to read through our [contribution guidelines](/CONTRIBUTING.md). We welcome high-quality submissions of new examples and guides, as long as they meet our criteria and fit within the scope of the cookbook.
-
-The contents of this repo are automatically rendered into [cookbook.openai.com](https://cookbook.openai.com) based on [registry.yaml](/registry.yaml).
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=468576060&machine=basicLinux32gb&location=EastUs)
+<h3 dir="auto"></h3>
+<blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✨ 浏览</font></font><a href="https://cookbook.openai.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cookbook.openai.com</font></font></a></p>
+</blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://platform.openai.com/docs/introduction" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用OpenAI API</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">完成常见任务的示例代码和指南</font><font style="vertical-align: inherit;">。要运行这些示例，您需要一个 OpenAI 帐户和关联的 API 密钥（</font></font><a href="https://beta.openai.com/signup" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在此处创建一个免费帐户</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）。设置</font></font><code>OPENAI_API_KEY</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用您的 API 密钥</font><font style="vertical-align: inherit;">调用的环境变量。</font><font style="vertical-align: inherit;">或者，在大多数 IDE（例如 Visual Studio Code）中，您可以</font></font><code>.env</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在存储库的根目录中创建一个包含 的文件</font></font><code>OPENAI_API_KEY=&lt;your API key&gt;</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，笔记本将拾取该文件。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大多数代码示例都是用 Python 编写的，尽管这些概念可以应用于任何语言。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关其他有用的工具、指南和课程，请查看</font></font><a href="https://cookbook.openai.com/related_resources" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络上的这些相关资源</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2><a id="user-content-contributing" class="anchor" aria-label="永久链接：贡献" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenAI Cookbook 是社区驱动的资源。无论您是提交想法、修复拼写错误、添加新指南还是改进现有指南，我们都非常感谢您的贡献！</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在做出贡献之前，请通读现有问题并拉取请求，看看其他人是否已经在做类似的事情。这样您就可以避免重复工作。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想查看示例或指南，请随时在</font></font><a href="https://github.com/openai/openai-cookbook/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">问题页面</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上提出建议。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想贡献新内容，请务必阅读我们的</font></font><a href="/openai/openai-cookbook/blob/main/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。我们欢迎提交高质量的新示例和指南，只要它们符合我们的标准并符合食谱的范围。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该存储库的内容会</font><font style="vertical-align: inherit;">根据</font><a href="/openai/openai-cookbook/blob/main/registry.yaml"><font style="vertical-align: inherit;">registry.yaml自动渲染到</font></a></font><a href="https://cookbook.openai.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cookbook.openai.com</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中。</font></font><a href="/openai/openai-cookbook/blob/main/registry.yaml"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"></font></p>
+<p dir="auto"><a href="https://github.com/codespaces/new?hide_repo_select=true&amp;ref=main&amp;repo=468576060&amp;machine=basicLinux32gb&amp;location=EastUs"><img src="https://github.com/codespaces/badge.svg" alt="在 GitHub Codespaces 中打开" style="max-width: 100%;"></a></p>
+</article></div>
